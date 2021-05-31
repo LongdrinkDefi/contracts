@@ -23,7 +23,7 @@ Deployed addresses for Longdrink Finance
 | --- | --- |
 | BEV | 0xc7dAC962C166a26038EC4Bc5d0E2a3Fe0ff3cE58 |
 
-#Ownerships
+# Ownerships
 | Name | Owner(s)/Admin(s) |
 | ---- | ---- |
 | Governance / Treasury | (2/3 multisig) |
