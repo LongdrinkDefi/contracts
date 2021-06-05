@@ -17,6 +17,7 @@ Deployed addresses for Longdrink Finance
 | Pancake-BEV-BNB | 0x112fa3bed7162cbb0f06bc820449deef0df15ed3 |
 | Pancake-LONG-BNB | 0x5ab4dc6ec350e546103f6891299b467293c36c3e |
 | LONGterm | 0x6Ea30738CaC45052606ec6A5697B1D68a274715E |
+| vLong (Snapshot Voting) | 0x6F49e0311419eDc6879F8d3d60E49f1eDb7A257E |
 
 # Longdrinks
 | Name | Address |
