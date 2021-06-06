@@ -76,7 +76,7 @@ Longdrink Finance has a Bug Bounty program to encourage security researchers to 
 
 Actual payouts are determined by classifying the vulnerability based on its impact and likelihood to be exploited successfully, as well as the process working with the disclosing security researcher. The rewards represent the _maximum_ that will be paid out for a disclosure.
 
-Rewards are paid out in [BUSD](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56).
+Rewards are paid out in [LONG](https://bscscan.com/address/0x5317fA16f8603bE9C461DeF5D5A1Bf28DfE42d55).
 
 ### Scope
 
