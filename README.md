@@ -33,6 +33,7 @@ Deployed addresses for Longdrink Finance
 | Masterchef | Timelock |
 | BEV | Timelock |
 | LONG | Masterchef |
+| LongdrinkMixerV2 | Governance |
 
 
 # Masterchef Pools
