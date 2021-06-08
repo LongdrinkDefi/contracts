@@ -9,6 +9,7 @@ Deployed addresses for Longdrink Finance
 | Masterchef | 0x986581a915f8abf4C8E21781a2c45FD4Eb21699D |
 | Timelock | 0x07502660e7aE8fB22b3a8DA56AeFbfC512f8A046 |
 | LongdrinkMixerV1 | 0x838341B567c6Cb8E5D263856775E3d8D30487A4d |
+| LongdrinkMixerV2 | 0x1656D0A0d027B9aF9026Ce60FE9Db03866DfD02A |
 
 # Tokens
 | Name | Address |
