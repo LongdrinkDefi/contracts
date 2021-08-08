@@ -8,14 +8,15 @@ Deployed addresses for Longdrink Finance
 | Governance / Treasury Gnosis Safe | 0x0eCAbF292833E2DFa59FD50c3b1Ba136B754F504 |
 | Masterchef | 0x986581a915f8abf4C8E21781a2c45FD4Eb21699D |
 | Timelock | 0x07502660e7aE8fB22b3a8DA56AeFbfC512f8A046 |
-| LongdrinkMixerV2 | 0x1656D0A0d027B9aF9026Ce60FE9Db03866DfD02A |
+| LongdrinkMixerBev | 0x1656D0A0d027B9aF9026Ce60FE9Db03866DfD02A |
+| LongdrinkMixerL1q | 0x55fF3F655bc072942AdBfd5A9ceA7811b09C7Af2 |
 
 # Tokens
 | Name | Address |
 | ---- | ------- |
 | LONG (Gov Token) | 0x5317fA16f8603bE9C461DeF5D5A1Bf28DfE42d55 |
 | Pancake-BEV-BNB | 0x112fa3bed7162cbb0f06bc820449deef0df15ed3 |
-| Pancake-L1Q-BNB | TBD |
+| Pancake-L1Q-BNB | 0x63AB15A96D99c020B5706bA97B889898d8330024 |
 | Pancake-LONG-BNB | 0x5ab4dc6ec350e546103f6891299b467293c36c3e |
 | LONGterm | 0x6Ea30738CaC45052606ec6A5697B1D68a274715E |
 | vLong (Snapshot Voting) | 0x6F49e0311419eDc6879F8d3d60E49f1eDb7A257E |
@@ -35,7 +36,8 @@ Deployed addresses for Longdrink Finance
 | BEV | Timelock |
 | L1Q | Timelock |
 | LONG | Masterchef |
-| LongdrinkMixerV2 | Governance |
+| LongdrinkMixerBev | Governance |
+| LongdrinkMixerL1q | Governance |
 
 
 # Incentivized Masterchef Pools
@@ -44,6 +46,8 @@ Deployed addresses for Longdrink Finance
 | 0 | LONGterm | 0x6Ea30738CaC45052606ec6A5697B1D68a274715E |
 | 2 | PANCAKE-BEV-BNB | 0x112fa3bed7162cbb0f06bc820449deef0df15ed3 |
 | 3 | PANCAKE-LONG-BNB | 0x5ab4dc6ec350e546103f6891299b467293c36c3e |
+| 40 | PANCAKE-L1Q-BNB | 0x63AB15A96D99c020B5706bA97B889898d8330024 |
+
 | 24 | BTC | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c
 | 25 | ETH | 0x2170ed0880ac9a755fd29b2688956bd959f933f8
 | 26 | ADA | 0x3ee2200efb3400fabb9aacf31297cbdd1d435d47
