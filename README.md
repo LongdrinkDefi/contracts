@@ -8,8 +8,8 @@ Deployed addresses for Longdrink Finance
 | Governance / Treasury Gnosis Safe | 0x0eCAbF292833E2DFa59FD50c3b1Ba136B754F504 |
 | Masterchef | 0x986581a915f8abf4C8E21781a2c45FD4Eb21699D |
 | Timelock | 0x07502660e7aE8fB22b3a8DA56AeFbfC512f8A046 |
-| LongdrinkMixerBev | 0x1656D0A0d027B9aF9026Ce60FE9Db03866DfD02A |
-| LongdrinkMixerL1q | 0x55fF3F655bc072942AdBfd5A9ceA7811b09C7Af2 |
+| BevMixer | 0x52a774548CCC7C7655eEbBea208a5dD7C6195290 |
+| L1qMixer | 0x55fF3F655bc072942AdBfd5A9ceA7811b09C7Af2 |
 
 # Tokens
 | Name | Address |
